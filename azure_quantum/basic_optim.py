@@ -1,6 +1,3 @@
-# Copyright (c) Microsoft Corporation.
-# Licensed under the MIT License.
-
 import os
 from azure.quantum import Workspace
 from azure.quantum.optimization import Problem, ProblemType, Term, ParallelTempering
